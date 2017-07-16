@@ -1,7 +1,7 @@
 {
   "name": "clegane-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Light green color scheme",
   "keywords": [
     "syntax",
@@ -10,7 +10,7 @@
     "light",
     "green"
   ],
-  "repository": "https://github.com/atom/clegane-syntax",
+  "repository": "https://github.com/IvanShamatov/clegane-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

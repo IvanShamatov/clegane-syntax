@@ -1,11 +1,14 @@
 {
   "name": "clegane-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "Light green color scheme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "forest",
+    "light",
+    "green"
   ],
   "repository": "https://github.com/atom/clegane-syntax",
   "license": "MIT",
